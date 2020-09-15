@@ -59,8 +59,11 @@ def banner():
 /____  > \___  >\___  >|__|_ \ \___  >|__|
 	 \/      \/     \/      \/     \/        ''' + W)
 	print('\n' + G + '[>]' + C + ' Created By : ' + W + 'Mr. X')
+	print(G + '[>]' + C + ' Version    : ' + W + version + '\n')
+	
 def ver_check():
 	print(G + '[+]' + C + ' Checking for Updates.....', end='')
+	ver_url = 'https://raw.githubusercontent.com/Mr-X-01/seeker/master/version.txt'
 	try:
 		ver_rqst = requests.get(ver_url)
 		ver_sc = ver_rqst.status_code
