@@ -10,6 +10,7 @@
 • <code>pkg install php -y</code><br>
 • <code>git clone https://github.com/Mr-X-01/seeker</code><br>
 • <code>cd seeker</code><br>
+• <code>pip install requests</code><br>
 
 # How to start?
 • <code>python3 seeker.py -t manual</code><br>
