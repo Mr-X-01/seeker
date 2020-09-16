@@ -6,7 +6,7 @@
 • <code>apt upgrade -y</code><br>
 • <code>apt install python -y</code><br>
 • <code>apt install git -y</code><br>
-• <code>apt install php ssh</code><br>
+• <code>apt install openssh -y</code><br>
 • <code>git clone https://github.com/Mr-X-01/seeker</code><br>
 • <code>cd seeker</code><br>
 
