@@ -26,7 +26,7 @@ There will be questions - Telegram: <a href="https://t.me/Mrxanon"> @Mrxanon</a>
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/Mr-X-01/seeker.git
 cd seeker/
 chmod 777 install.sh
 ./install.sh
@@ -47,7 +47,7 @@ docker pull thewhiteh4t/seeker
 ### Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/Mr-X-01/seeker.git
 cd seeker/
 chmod 777 termux_install.sh
 ./termux_install.sh
