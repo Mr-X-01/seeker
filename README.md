@@ -1,5 +1,5 @@
 # Seeker
-Hi, this is a script for tracker<br>
+Hi, this is a tracker<br>
 # Donate
 <b>Who does not mind a penny on the development of the project:</b><br>
 <b>Bitcoin: 1LBjGEQ16jK23cVqtkFg5fm91poKVVAP5b<br>
