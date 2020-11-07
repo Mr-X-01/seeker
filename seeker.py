@@ -1,5 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 R = '\033[31m' # red
 G = '\033[32m' # green
